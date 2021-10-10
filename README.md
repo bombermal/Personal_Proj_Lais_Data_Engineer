@@ -13,10 +13,9 @@ Projeto de avaliação técninca LAIS - Data Engineer 2021
 3. Conexão com MongoDB:
     - [X] Ingestão dos documentos
 4. Acesso ao banco:
-    - [ ] Rotinas de consulta por CNES
-    - [ ] Rotina de consulta de dados agregados
+    - [X] Rotinas de consulta por CNES
+    - [X] Rotina de consulta de dados agregados
 5. Exposição dos dados:
-    - [ ] Verificação de faltantes
-    - [ ] Explorar ideias
-    - [ ] Definir assuntos
-    - [ ] Criar visualizações
+    - [X] Explorar ideias
+    - [X] Definir assuntos
+    - [X] Criar visualizações
